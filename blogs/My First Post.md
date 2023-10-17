@@ -1,6 +1,3 @@
-```{"title":"This is My first Post","description":"I written this as my first test post","author":"Satyendra","url":"","date":"Oct 17, 2023, 04:10 PM","image":"images/My First Post/banner.webp"}```
-
-
 # The Wonders of Artificial Intelligence
 
 Artificial Intelligence (AI) is a fascinating field that has been making remarkable strides in recent years. From self-driving cars to virtual assistants like Siri and Alexa, AI is changing the way we live and work. In this blog post, we'll explore the wonders of AI and its impact on various aspects of our lives.
