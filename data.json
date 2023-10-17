@@ -1,7 +1,6 @@
 {
-    "latest": {"title":"This is My first Post","description":"I written this as my first test post","author":"Satyendra","url":"","date":"Oct 17, 2023, 04:10 PM","image":"images/My First Post/banner.webp"},
     "pinned":[],
     "posts":[
-        {"title":"This is My first Post","description":"I written this as my first test post","author":"Satyendra","url":"","date":"Oct 17, 2023, 04:10 PM","image":"images/My First Post/banner.webp"}
+        {"title":"This is My first Post","description":"I written this as my first test post","author":"Satyendra","url":"My%20First%20Post.md","date":"Oct 17, 2023, 04:10 PM","image":"images/My First Post/banner.webp", "tags":[{"popular":"green"}]}
     ]
 }
